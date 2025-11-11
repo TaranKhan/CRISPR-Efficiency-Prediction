@@ -1,0 +1,9 @@
+# Ignore Jupyter autosave files
+.ipynb_checkpoints/
+
+# Ignore Anaconda project folders
+anaconda_projects/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
